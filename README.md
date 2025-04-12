@@ -6,3 +6,11 @@ This is the example of how to phone authentication using firebase project in lat
 
 
 # Please follow and rate my account **[@Pinankh](https://github.com/Pinankh)** for more intresting coding Dive deeper with my techenogies . Come learn and grow with me!
+
+<!-- CONTACT -->
+## Contact
+
+Pinankh Patel - pinankhpatel@hotmail.com
+
+Linkedin: https://www.linkedin.com/in/pinankh-patel-19400350/
+
